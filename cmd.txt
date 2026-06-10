@@ -1,0 +1,1 @@
+netsh advfirewall firewall add rule name="Permitir ICMP" protocol=icmpv4 dir=in action=allow
